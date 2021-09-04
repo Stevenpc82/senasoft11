@@ -37,7 +37,7 @@
                     <h1 class="display-5 fw-bold">Historia</h1>
                     <br>
                     <div class="text text-center">
-                        <iframe width="1110" height="600" src="https://www.youtube.com/embed/VF4ElPz5h8Y"
+                        <iframe width="100%" height="505" src="https://www.youtube.com/embed/VF4ElPz5h8Y"
                                 title="YouTube video player" frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                 allowfullscreen></iframe>
