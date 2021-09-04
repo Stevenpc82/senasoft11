@@ -38,7 +38,7 @@
 
                         Un grupo de visionarios fundaban, contra viento y marea, el Club Atlético Municipal, uno de los dos
                         equipos, que en aquel entonces, representarían a la región en el torneo de la DIMAYOR.</p>
-                    <button class="btn btn-primary btn-lg" type="button">Ir a mas >></button>
+                    <a class=" btn btn-outline-secondary " href="{{url('equip')}}">Ir a mas>></a>
                 </div>
             </div>
             <div class="text text-center">
@@ -47,7 +47,6 @@
                         <div class="h-100 p-5 text-white bg-dark rounded-3">
                             <h2>Redes</h2>
                             <a class=" btn btn-outline-secondary p-3" href="https://es-la.facebook.com/nacionaloficial/">Facebook</a>
-
                             <a class=" btn btn-outline-secondary p-3" href="https://www.instagram.com/nacionaloficial/?hl=es-la">Instagram</a>
                         </div>
                     </div>
